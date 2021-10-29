@@ -50,7 +50,7 @@ cross axis
 
 5. Explain why git is valuable to a team of developers.
 
-It is valuable specially if you're working as a team you can all work on it and have your own input without having to go through different forms of communication.
+It is valuable specially if you're working as a team you can all work on it and have your own input without having to go through different forms of communication. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
